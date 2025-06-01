@@ -1,6 +1,6 @@
-const sum = (x, y) => {
+const sum2 = (x, y) => {
   return x + y;
 };
 
-console.log(sum(5, 10)); //15
-console.log(sum("minh", 2)); //minh2
+console.log(sum2(5, 10)); //15
+console.log(sum2("minh", 2)); //minh2
