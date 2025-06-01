@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript
